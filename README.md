@@ -1,4 +1,1 @@
-vimrc
-=====
-
-My vim setting
+#ubuntu

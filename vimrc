@@ -53,7 +53,6 @@ if filereadable("/etc/vim/vimrc.local")
 endif
 
 set nu
-
 set cc=80
 inoremap jj <esc>
 
@@ -65,8 +64,8 @@ set cursorline
 "缩进的空格数
  set shiftwidth=4
  set expandtab
-" 输入的命令显示出来，看的清楚些
-"set showcmd        
+"输入的命令显示出来，看的清楚些
+set showcmd        
 "自动切换当前目录为当前文件所在的目录
 set autochdir
 "共享剪切板
@@ -74,18 +73,13 @@ set clipboard+=unnamed
 set ignorecase 
 "set terminal shell 256 colors
 set t_Co=256
-"hight line
 syntax on
-"color solarized
-"set background=dark
 
-set showcmd        
-set smartindent "新行智能缩进"
+"新行智能缩进
+set smartindent
 set autoindent 
 set ci
-"space instead tab
-"set expandtab
-"indent 
+
 filetype indent on
 
 "seting  bundle star
@@ -94,7 +88,6 @@ filetype off                  " required!
 
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
-
 
 " let Vundle manage Vundle
 " required! 

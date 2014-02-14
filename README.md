@@ -44,9 +44,9 @@
 - tComment 快速注释   
 - emmet-vim zencoding现名  
 #### 界面增强[powerline](https://github.com/Lokaltog/vim-powerline)  
-![powerline](https://github-camo.global.ssl.fastly.net/63f9947cac196ec7e6e3d790fd3cd1e1463a7b9b/687474703a2f2f692e696d6775722e636f6d2f4d737549422e706e67)
+![powerline](https://github-camo.global.ssl.fastly.net/63f9947cac196ec7e6e3d790fd3cd1e1463a7b9b/687474703a2f2f692e696d6775722e636f6d2f4d737549422e706e67)  
 **有些可能会没有三角符号，或者乱码。更改[字体](),然后更改配置文件为fancy模式，参考`:h Powerline`**  
-####其它  
+#### 其它  
 - 常用快捷键映射  
 - 代码美观，80个字符出标尺  
 - 智能缩进  

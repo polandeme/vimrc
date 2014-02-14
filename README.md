@@ -28,6 +28,7 @@
     "bundle set end
 
 ##### 简单使用:  
+
 1. Bundle + github或vim官网上的地址  
 2. 打开vim运行`:BundleInstall`  
 3. 重启vim安装完成  

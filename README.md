@@ -28,12 +28,10 @@
     "bundle set end
 
 ##### 简单使用:  
-
 1. Bundle + github或vim官网上的地址  
 2. 打开vim运行`:BundleInstall`  
 3. 重启vim安装完成  
-4. 将配置文件中该插件注释，运行`:BundleUpdate`即可卸载插件  
-
+4. 将配置文件中该插件注释，运行`:BundleUpdate`即可卸载插件   
 - `BundleList` 已安装插件列表   
 - `BundleUpdate`更新插件  
 - 更多说明`:h vundle`  

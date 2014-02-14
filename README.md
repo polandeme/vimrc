@@ -2,6 +2,7 @@
 
 +-----------------------------------------------------+  
 ...  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;polande™  
 &emsp;&emsp;&emsp;&emsp;[www.polande.com](www.polande.com)  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;polandeme[AT].gmail.com  
 ...  

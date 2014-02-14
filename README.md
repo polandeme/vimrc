@@ -7,7 +7,13 @@
 &emsp;&emsp;&emsp;&emsp;[www.polande.com](www.polande.com)  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;polandeme[AT].gmail.com  
 ...  
-+-----------------------------------------------------+
++-----------------------------------------------------+  
+
+-----------------------------------------------------------------------
+
+
+效果图 
+![效果图](http://h-pic.qiniudn.com/vim.png)  
 ### 使用说明  
 #### 插件管理[vundle](https://github.com/gmarik/Vundle.vim):  
 
@@ -41,7 +47,7 @@
 
 #### 界面增强[powerline](https://github.com/Lokaltog/vim-powerline)  
 
-![powerline](https://github-camo.global.ssl.fastly.net/63f9947cac196ec7e6e3d790fd3cd1e1463a7b9b/687474703a2f2f692e696d6775722e636f6d2f4d737549422e706e67)  
+![powerline](http://h-pic.qiniudn.com/powerline.png)  
 **有些可能会没有三角符号，或者乱码。更改[字体](),然后更改配置文件为fancy模式，参考`:h Powerline`**   
 
 --------------------------------------------------------------

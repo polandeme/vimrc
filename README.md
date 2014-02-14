@@ -47,10 +47,10 @@
 --------------------------------------------------------------
 
 #### 插件说明  
-- nerdtree 文件管理插件，非常推荐  
-- Auto-Pairs 自动匹配各种括号，分号  
-- tComment 快速注释   
-- emmet-vim zencoding现名 
+- [nerdtree](https://github.com/scrooloose/nerdtree) 文件管理插件，非常推荐  
+- [Auto-Pairs](https://github.com/jiangmiao/auto-pairs) 自动匹配各种括号，分号  
+- [tComment](https://github.com/vim-scripts/tComment) 快速注释   
+- [emmet-vim](https://github.com/mattn/emmet-vim) zencoding现名 
 
 ------------------------------------------------------------------
 

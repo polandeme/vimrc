@@ -100,7 +100,6 @@ Bundle 'Lokaltog/vim-powerline'
 Bundle  'git@github.com:suan/vim-instant-markdown.git'
 "Bundle  'vim-scripts/vimwiki' 
 "Bundle  'plasticboy/vim-markdown'
-"Bundle 'mattn/zencoding-vim'
 Bundle 'vim-scripts/Auto-Pairs'
 "Bundle 'git@github.com:vim-scripts/taglist.vim.git'
 "配色  

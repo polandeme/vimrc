@@ -1,11 +1,62 @@
 #ubuntu  
 
-+-----------------------------------------------------+  
-...  
++-----------------------------------------------------+    
+&emsp;*生命在于折腾*  
+...   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;polande™  
 &emsp;&emsp;&emsp;&emsp;[www.polande.com](www.polande.com)  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;polandeme[AT].gmail.com  
 ...  
 +-----------------------------------------------------+
+### 使用说明  
+#### 插件管理[vundle](https://github.com/gmarik/Vundle.vim):  
 
-插件管理[vundle](https://github.com/gmarik/Vundle.vim)
+    " My bundles here:
+    Bundle 'scrooloose/nerdtree'
+    Bundle 'Lokaltog/vim-powerline'
+    "Bundle 'auto_mkdir'"创建没有的文件夹"
+    Bundle  'git@github.com:suan/vim-instant-markdown.git'
+    "Bundle  'vim-scripts/vimwiki' 
+    "Bundle  'plasticboy/vim-markdown'
+    "Bundle 'mattn/zencoding-vim'
+    Bundle 'vim-scripts/Auto-Pairs'
+    "Bundle 'git@github.com:vim-scripts/taglist.vim.git'
+    "配色  
+    "Bundle 'flazz/vim-colorschemes'
+    "日历，结合vimwiki使用
+    "Bundle 'vim-scripts/calendar.vim--Matsumoto'
+    "Bundle 'vim-scripts/The-NERD-Commenter'
+    "Bundle 'git@github.com:vim-scripts/Conque-Shell.git'
+    "Bundle 'git@github.com:motemen/git-vim.git'
+    "代码补全插件
+    "Bundle 'git@github.com:garbas/vim-snipmate.git'
+    "Bundle "MarcWeber/vim-addon-mw-utils"
+    "Bundle "tomtom/tlib_vim"
+    Bundle 'git@github.com:kchmck/vim-coffee-script.git'
+    Bundle "pangloss/vim-javascript"
+    "Bundle 'git@github.com:vim-scripts/sessionman.vim.git'
+    "Bundle 'git@github.com:uguu-org/vim-matrix-screensaver.git'
+    Bundle  'git@github.com:mattn/emmet-vim.git'
+    Bundle 'vim-scripts/tComment'
+    " Git repos on your local machine (i.e. when working on your own plugin)
+
+    filetype plugin indent on     " required!
+    "bundle set end
+
+##### 简单使用:  
+1. Bundle + github或vim官网上的地址  
+2. 打开vim运行`:BundleInstall`  
+3. 重启vim安装完成
+4. 将配置文件中该插件注释，运行`:BundleUpdate`即可卸载插件  
+
+- `BundleList` 已安装插件列表   
+- `BundleUpdate`更新插件  
+- 更多说明`:h vundle`  
+- 有终端[tmux版](https://github.com/erikw/tmux-powerline)  
+
+### 界面增强[powerline](https://github.com/Lokaltog/vim-powerline)  
+![powerline](https://github-camo.global.ssl.fastly.net/63f9947cac196ec7e6e3d790fd3cd1e1463a7b9b/687474703a2f2f692e696d6775722e636f6d2f4d737549422e706e67)
+**有些可能会没有三角符号，或者乱码。更改[字体](),然后更改配置文件为fancy模式，参考`:h Powerline`**  
+
+更多说明`:h xxx`  
+[vim使用](###)  

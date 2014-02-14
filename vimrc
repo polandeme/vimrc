@@ -70,6 +70,7 @@ set showcmd
 set autochdir
 "共享剪切板
 set clipboard+=unnamed
+"搜索忽略大小写  
 set ignorecase 
 "set terminal shell 256 colors
 set t_Co=256

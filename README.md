@@ -12,7 +12,8 @@
 -----------------------------------------------------------------------
 
 
-效果图(ubuntu+tmux+vim)   
+#####效果图 (ubuntu+tmux+vim)   
+
 ![效果图](http://h-pic.qiniudn.com/vim.png)  
 ### 使用说明  
 #### 插件管理[vundle](https://github.com/gmarik/Vundle.vim):  

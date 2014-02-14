@@ -47,7 +47,7 @@
 
 #### 界面增强[powerline](https://github.com/Lokaltog/vim-powerline)  
 
-![powerline](http://h-pic.qiniudn.com/powerline.png)  
+![powerline](http://h-pic.qiniudn.com/powerline2.png)  
 **有些可能会没有三角符号，或者乱码。更改[字体](),然后更改配置文件为fancy模式，参考`:h Powerline`**   
 
 --------------------------------------------------------------
